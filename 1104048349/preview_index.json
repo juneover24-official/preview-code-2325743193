@@ -1,7 +1,7 @@
 {
   "qq_number": "2325743193",
   "group_number": "1104048349",
-  "updated_at": "2026-05-30T00:03:13+00:00",
+  "updated_at": "2026-05-30T00:06:30+00:00",
   "skins": [
     {
       "name": "Feiの冈崎真一",
@@ -14,6 +14,12 @@
       "file": "废の白鬼院凛凛蝶.bdi",
       "thumb": "废の白鬼院凛凛蝶.bdi_py_26_light_thumb.png",
       "full": "废の白鬼院凛凛蝶.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Feiの夜羽",
+      "file": "废の夜羽.bdi",
+      "thumb": "废の夜羽.bdi_py_26_light_thumb.png",
+      "full": "废の夜羽.bdi_py_26_light_thumb.png"
     }
   ]
 }
