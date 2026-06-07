@@ -1,7 +1,7 @@
 {
   "qq_number": "2325743193",
   "group_number": "1104048349",
-  "updated_at": "2026-06-07T03:36:21+00:00",
+  "updated_at": "2026-06-07T03:36:33+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -26,6 +26,12 @@
       "file": "废のGosick.bdi",
       "thumb": "废のGosick.bdi_py_26_light_thumb.png",
       "full": "废のGosick.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "废のGosick",
+      "file": "废のGosick.bds",
+      "thumb": "废のGosick.bds_py_26_light_thumb.png",
+      "full": "废のGosick.bds_py_26_light_thumb.png"
     }
   ]
 }
