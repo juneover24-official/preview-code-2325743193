@@ -1,7 +1,7 @@
 {
   "qq_number": "2325743193",
   "group_number": "1104048349",
-  "updated_at": "2026-06-12T14:37:45+00:00",
+  "updated_at": "2026-06-13T12:01:17+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -34,16 +34,16 @@
       "full": "废のGosick.bds_py_26_light_thumb.png"
     },
     {
-      "name": "废の夏彦",
-      "file": "废の夏彦.bdi",
-      "thumb": "废の夏彦.bdi_py_26_light_thumb.png",
-      "full": "废の夏彦.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "夏彦",
       "file": "废の夏彦.bds",
       "thumb": "废の夏彦.bds_py_26_light_thumb.png",
       "full": "废の夏彦.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "废の夏彦",
+      "file": "废の夏彦.bdi",
+      "thumb": "废の夏彦.bdi_py_26_light_thumb.png",
+      "full": "废の夏彦.bdi_py_26_light_thumb.png"
     }
   ]
 }
