@@ -1,7 +1,7 @@
 {
   "qq_number": "2325743193",
   "group_number": "1104048349",
-  "updated_at": "2026-06-25T12:35:22+00:00",
+  "updated_at": "2026-06-25T12:47:47+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -59,15 +59,15 @@
     },
     {
       "name": "废の夏目友人帐",
-      "file": "废の夏目友人帐.bds",
-      "thumb": "废の夏目友人帐.bds_py_26_light_thumb.png",
-      "full": "废の夏目友人帐.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "废の夏目友人帐",
       "file": "废の夏目友人帐.bdi",
       "thumb": "废の夏目友人帐.bdi_py_26_light_thumb.png",
       "full": "废の夏目友人帐.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "废の夏目友人帐",
+      "file": "废の夏目友人帐.bds",
+      "thumb": "废の夏目友人帐.bds_py_26_light_thumb.png",
+      "full": "废の夏目友人帐.bds_py_26_light_thumb.png"
     }
   ]
 }
